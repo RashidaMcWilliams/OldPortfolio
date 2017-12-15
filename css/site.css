@@ -15,9 +15,10 @@ body {
     width:300px;
 }
 
-.portrait {
-    height: 250px;
-    width: 200px;
+img.portrait.responsive {
+    height: 400px;
+    width: 300px;
+    margin-right: 0px;
 }
 
 div#footer {

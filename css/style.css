@@ -1,4 +1,4 @@
-/*
+﻿/*
 	Monochromed by TEMPLATED
     templated.co @templatedco
     Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
@@ -96,6 +96,7 @@
 		{
 			letter-spacing: -1px;
 			font-weight: 700;
+            color: #2b71e2;
 		}
 	
 		header .byline
@@ -261,7 +262,7 @@
 	#header
 	{
 		position: relative;
-		background: #ddd url(../images/header.jpg) no-repeat center;
+        background: #ddd url(../images/copy.JPG) no-repeat center;
 		background-size: cover;
 	}
 
@@ -276,7 +277,12 @@
 		#nav ul
 		{
 			margin: 0;
+            
 		}
+
+        #nav ul:hover {
+            color: #2b71e2;
+        }
 	
 /*********************************************************************************/
 /* Banner                                                                        */
